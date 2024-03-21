@@ -1,4 +1,4 @@
-### Hi  👋
+### Hello  👋
 Welcome to my leisure area
 <!--
 **emmanuelvrm/emmanuelvrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>📊 IT Coordinator.</p>
 <p>👩‍🏫 Teacher.</p>
 <p>👩‍🎓 Bachelor of Information Systems - ESAB.</p>
-<p>⚡ Data Scientist and Data Engineer Especialist - Anhanguera</p>
+<p>🎲 Data Scientist and Data Engineer Especialist - Anhanguera</p>
 
 ### Skills 👩‍💻
 [![My Skills](https://skillicons.dev/icons?i=linux,anaconda,vim)](https://skillicons.dev)
