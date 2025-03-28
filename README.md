@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### Who am I?
-<p>📊 Data Scientist 🥰.</p>
+<p>📊 Data Lover 🥰.</p>
 <p>👩‍💻 IT Coordinator.</p>
 <p>👩‍🏫 Teacher.</p>
 <p>👩‍🎓 Bachelor of Information Systems - ESAB.</p>
-<p>🎲 Data Scientist and Data Engineer Especialist - Anhanguera</p>
+<p>🎲 Data Scientist, Data Engineer Especialist, ML Engineer Especialist - Anhanguera</p>
 
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=linux,anaconda,vim)](https://skillicons.dev)
